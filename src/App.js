@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-         WELCOME TO PEARL,NEETHU MOLE
-
-         from SIBIN JOHN
+         WELCOME TO REDSKY
       </header>
     </div>
   );
