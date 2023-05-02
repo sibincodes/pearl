@@ -19,7 +19,8 @@ const App = () => {
 
 <div className="main">
   <h3>Welcome to Red Falcon Club</h3>
-  <p>Here you can read plenty of useful Articles, news and Blogs.</p>
+  <p>Here you can read useful Articles,</p>
+    <p>News and Blogs.</p> 
   <p>Keep supporting and stay with us.</p>
   <p>Admin - Sibin John</p>
 
