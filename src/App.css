@@ -14,6 +14,7 @@
 .main-content{
   height: 100%;
   width: 100%;
+  position: relative;
 }
 .sidebar {
   margin-top: 4%;
