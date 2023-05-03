@@ -3,6 +3,7 @@
   height: 100%;
   width: 100%;
   position: relative;
+  overflow-y: hidden;
 
 }
 .header {
@@ -15,7 +16,7 @@
   height: 100%;
   width: 100%;
   position: relative;
-  overflow-y: hidden;
+
 }
 .sidebar {
   margin-top: 4%;
@@ -26,8 +27,7 @@
   top: 0;
   left: 0;
   background-color: #111;
-  overflow: auto;
-  transform: translate3d(0,0,0);
+
 
 }
 
