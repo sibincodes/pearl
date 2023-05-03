@@ -25,7 +25,7 @@
   top: 0;
   left: 0;
   background-color: #111;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .sidebar a {
